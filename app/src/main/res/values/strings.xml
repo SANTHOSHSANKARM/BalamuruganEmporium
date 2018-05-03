@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BalamuruganEmporium</string>
+    <string name="id">Enter your ID</string>
+    <string name="enter">Enter the name of items</string>
+    <string name="number">Enter the no of items</string>
+    <string name="price">Enter the price</string>
+
+</resources>
